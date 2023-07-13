@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  header, footer {
+    background-color: #F0F0F0;
+    padding: 20px;
+    text-align: center;
+  }
+
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+
+  td {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  /* Achtergrondkleuren voor de cellen */
+  #cell1 {
+    background-color: #F9E79F; /* Achtergrondkleur cel 1 */
+  }
+
+  #cell2 {
+    background-color: #D7BDE2; /* Achtergrondkleur cel 2 */
+  }
+
+  #cell3 {
+    background-color: #ABEBC6; /* Achtergrondkleur cel 3 */
+  }
+
+  #cell4 {
+    background-color: #AED6F1; /* Achtergrondkleur cel 4 */
+  }
+
+  #cell5 {
+    background-color: #F5CBA7; /* Achtergrondkleur cel 5 */
+  }
+
+  #cell6 {
+    background-color: #B2BABB; /* Achtergrondkleur cel 6 */
+  }
+
+  #cell7 {
+    background-color: #82E0AA; /* Achtergrondkleur cel 7 */
+  }
+
+  #cell8 {
+    background-color: #A3E4D7; /* Achtergrondkleur cel 8 */
+  }
+
+  /* Achtergrondkleuren voor de woorden */
+  .word1 {
+    background-color: #FFC300; /* Achtergrondkleur woord 1 */
+  }
+
+  .word2 {
+    background-color: #F39C12; /* Achtergrondkleur woord 2 */
+  }
+
+  .word3 {
+    background-color: #F08080; /* Achtergrondkleur woord 3 */
+  }
+
+  .word4 {
+    background-color: #E74C3C; /* Achtergrondkleur woord 4 */
+  }
+
+  /* Stijl voor de afbeeldingen */
+  .cat-image {
+    max-width: 100%;
+    max-height: 100%;
+  }
